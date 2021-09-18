@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @Meicalnissyen
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+Meicalnissyen/Meicalnissyen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+Greets, new to this, looking for ways to enhance my tenlog D3 pro
+probably going to have trouble figuring out how to navigate these pages, they do not seem to have the feel of a manufacturer support page, hehe.
+But, I shall muddle my way thru,  free mentoring from strangers is always welcome
